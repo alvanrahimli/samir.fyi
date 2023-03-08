@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = "Samir's blog"
 theme = 'hugo-blog-awesome'
 
+[module]
+  [[hugoVersion]]
+    extended = true
+
 # set markup.highlight.noClasses=false to enable code highlight
 [markup]
   [markup.highlight]
