@@ -35,10 +35,15 @@ theme = 'hugo-blog-awesome'
 [params]
   sitename = "Samir's blog"
   defaultColor = "dark" # set default color mode: dark or light
-  description = "Welcome to my blog"
+  description = "Welcome to my blog!"
 
 [params.author]
-  avatar = "images/avatar.jpg"
-  intro = "Welcome"
+  avatar = "me.jpg"
+  intro = "Samir Hasanov"
   name = "Samir Hasanov"
-  description = "blog"
+  description = "Welcome to my blog!"
+
+[[params.socialIcons]]
+name = "rss"
+url = "/index.xml"
+
