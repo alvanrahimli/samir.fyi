@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samir&#39;s blog</title>
+    <link>https://www.samir.fyi/</link>
+    <description>Recent content on Samir&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Mar 2023 01:38:10 +0400</lastBuildDate><atom:link href="https://www.samir.fyi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://www.samir.fyi/posts/2023/hello-world/</link>
+      <pubDate>Thu, 09 Mar 2023 01:38:10 +0400</pubDate>
+      
+      <guid>https://www.samir.fyi/posts/2023/hello-world/</guid>
+      <description>This is my first blog&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

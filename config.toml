@@ -1,7 +1,8 @@
-baseURL = 'https://www.samir.fyi/'
+baseURL = 'https://www.samir.fyi'
 languageCode = 'en-us'
 title = "Samir's blog"
 theme = 'hugo-blog-awesome'
+
 
 [module]
   [[hugoVersion]]
@@ -32,12 +33,12 @@ theme = 'hugo-blog-awesome'
     weight = 30
 
 [params]
-  sitename = "Awesome hugo blog"
+  sitename = "Samir's blog"
   defaultColor = "dark" # set default color mode: dark or light
-  description = "Minimal Hugo blog theme with light and dark mode support"
+  description = "Welcome to my blog"
 
 [params.author]
-  avatar = "img/avatar.jpg"
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "A minimalistic Hugo theme with light and dark mode support, for running a personal site or blog"
+  avatar = "images/avatar.jpg"
+  intro = "Welcome"
+  name = "Samir Hasanov"
+  description = "blog"
